@@ -4,11 +4,11 @@
     "de": "Hallo Welt",
     "en": "Hello World"
   },
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": {
     "de": "Beispiel-Addon",
     "en": "Example addon"
   },
-  "apiVersion": 1,
+  "apiVersion": 2,
   "entry": "index.js"
 }
